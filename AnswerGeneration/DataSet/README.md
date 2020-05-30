@@ -4,10 +4,9 @@
 本資料集從2,108篇維基條目中整理出10,014篇段落，並從段落中標註出30,000多個問題
 
 關於資料集之更詳細資訊請洽詢論文：
-For more information please refer to Paper https://arxiv.org/abs/1806.00920
+For more information please refer to [Paper](https://arxiv.org/abs/1806.00920 "Paper")
 
-引用資料集純為學術研究用,不做其他用途
-原資料集連結 https://github.com/DRCKnowledgeTeam/DRCD
+引用資料集純為學術研究用,不做其他用途，[原資料集出處連結](https://github.com/DRCKnowledgeTeam/DRCD "台達閱讀理解資料集")
 ## Data format 資料格式
 
 - version : <String> 資料集版本
