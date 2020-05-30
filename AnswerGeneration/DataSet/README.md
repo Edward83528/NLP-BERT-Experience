@@ -138,19 +138,3 @@ For more information please refer to Paper https://arxiv.org/abs/1806.00920
 }
   
   ```
-## Copyright Notice 版權聲明
-
-本資料集整理、改編自維基百科，其內容以CC-BY-SA 3.0條款發布。
-台達電子對於本資料集內容之正確性不為任何擔保，且不就因使用或倚賴本資料集而引致的任何損失，承擔任何責任。
-CC-BY-SA 3.0相關條款請參考以下連結
-http://creativecommons.org/licenses/by-sa/3.0/
-
-DRCD is compiled and adapted from Wikipedia and its content is published under the terms of CC-BY-SA 3.0. Delta Electronics, Inc. makes no representations or warranties of the correctness of the contents of DRCD and will not be liable for any loss or damage arising from the use or reliance on DRCD. 
-
-CC-BY-SA 3.0 can be found at http://creativecommons.org/licenses/by-sa/3.0/
-
-
-## Contact us 聯繫我們 
-
-- 資料所有： <a href="http://www.deltaww.com/about/drc_ch.aspx?secID=5&pid=4&tid=1&hl=zh-TW">台達研究院Delta Research Center</a>
-- Email: <a href="mailto:Trois.Liu@deltaww.com">trois.liu@deltaww.com</a>
